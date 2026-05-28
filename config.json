@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseselete",
+        "uuid": 18028728,
+        "checksum": "lnjxy"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
